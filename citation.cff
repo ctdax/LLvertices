@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Thompson"
   given-names: "Colby"
-title: "LLvertices"
+title: "splitSUSY-compressed"
 version: 1.0.0
 date-released: 2022-07-27
-url: "https://github.com/ctdax/LLvertices"
+url: "https://github.com/ctdax/splitSUSY-compressed"
